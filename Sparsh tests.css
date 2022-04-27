@@ -1,0 +1,46 @@
+h1{
+	color:black;
+}
+.Warning{
+	color: red;
+}
+
+.Warning2{
+	color: !important;
+}
+
+.Out-of-stock{
+border-style: ridge;
+border-color: red;
+border-width: 10px;
+
+font-size: 17px;
+font-style: italic;
+font--family:Georgia;
+}
+
+.in-stock{
+	background-color: green;
+	height: 300px;
+	width: 300px;
+}
+
+.div-img{
+	height: 80%;
+	width: 100%;
+}
+
+.available-coffee{
+	border: 5px ridge darkred;
+	font-size: 16px;
+}
+
+.Tittle{
+	border: 10px solid greens;
+	font-size: 15px;
+}
+
+table, th, td{
+	border: 2px solid black;
+}
+
